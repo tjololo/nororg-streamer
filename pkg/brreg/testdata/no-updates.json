@@ -1,0 +1,28 @@
+{
+  "_embedded": {
+    "oppdaterteEnheter": [
+      {
+        "oppdateringsid": 10194185,
+        "dato": "2021-01-07T20:33:47.289Z",
+        "organisasjonsnummer": "918359583",
+        "endringstype": "Endring",
+        "_links": {
+          "enhet": {
+            "href": "https://data.brreg.no/enhetsregisteret/api/enheter/918359583"
+          }
+        }
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/oppdateringer/enheter?dato=2021-01-07T20:33:47.289Z"
+    }
+  },
+  "page": {
+    "size": 20,
+    "totalElements": 1,
+    "totalPages": 1,
+    "number": 0
+  }
+}

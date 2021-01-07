@@ -1,0 +1,462 @@
+[
+  {
+    "oppdateringsid": 1,
+    "dato": "2018-04-23T06:03:29.443Z",
+    "organisasjonsnummer": "913189892",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/913189892"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 2,
+    "dato": "2018-04-23T06:03:29.456Z",
+    "organisasjonsnummer": "913189892",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/913189892"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 3,
+    "dato": "2018-04-23T06:03:29.460Z",
+    "organisasjonsnummer": "914066514",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914066514"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 4,
+    "dato": "2018-04-23T06:03:29.460Z",
+    "organisasjonsnummer": "914066514",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914066514"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 5,
+    "dato": "2018-04-23T06:03:29.463Z",
+    "organisasjonsnummer": "914316308",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914316308"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 6,
+    "dato": "2018-04-23T06:03:29.466Z",
+    "organisasjonsnummer": "914316308",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914316308"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 7,
+    "dato": "2018-04-23T06:03:29.470Z",
+    "organisasjonsnummer": "914422825",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914422825"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 8,
+    "dato": "2018-04-23T06:03:29.470Z",
+    "organisasjonsnummer": "914422825",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914422825"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 9,
+    "dato": "2018-04-23T06:03:29.473Z",
+    "organisasjonsnummer": "917345759",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917345759"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 10,
+    "dato": "2018-04-23T06:03:29.476Z",
+    "organisasjonsnummer": "917345759",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917345759"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 11,
+    "dato": "2018-04-23T06:03:29.480Z",
+    "organisasjonsnummer": "917465606",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917465606"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 12,
+    "dato": "2018-04-23T06:03:29.483Z",
+    "organisasjonsnummer": "917465606",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917465606"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 13,
+    "dato": "2018-04-23T06:03:29.486Z",
+    "organisasjonsnummer": "917467889",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917467889"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 14,
+    "dato": "2018-04-23T06:03:29.490Z",
+    "organisasjonsnummer": "917467889",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917467889"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 15,
+    "dato": "2018-04-23T06:03:29.490Z",
+    "organisasjonsnummer": "917610207",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917610207"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 16,
+    "dato": "2018-04-23T06:03:29.500Z",
+    "organisasjonsnummer": "917610207",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917610207"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 17,
+    "dato": "2018-04-23T06:03:29.503Z",
+    "organisasjonsnummer": "919291834",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919291834"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 18,
+    "dato": "2018-04-23T06:03:29.506Z",
+    "organisasjonsnummer": "919291834",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919291834"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 19,
+    "dato": "2018-04-23T06:03:29.510Z",
+    "organisasjonsnummer": "919507195",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919507195"
+      }
+    }
+  },
+  {
+    "oppdateringsid": 20,
+    "dato": "2018-04-23T06:03:29.510Z",
+    "organisasjonsnummer": "919507195",
+    "endringstype": "Ukjent",
+    "_links": {
+      "first": {
+        "href": ""
+      },
+      "self": {
+        "href": ""
+      },
+      "next": {
+        "href": ""
+      },
+      "last": {
+        "href": ""
+      },
+      "enhet": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919507195"
+      }
+    }
+  }
+]
