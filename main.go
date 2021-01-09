@@ -32,7 +32,7 @@ type PubSubMessage struct {
 	Subscription string `json:"subscription"`
 }
 
-// HelloPubSub receives and processes a Pub/Sub push message.
+//PubSubPing receives and processes a Pub/Sub push message.
 func PubSubPing(w http.ResponseWriter, r *http.Request) {
 	var m PubSubMessage
 	body, err := ioutil.ReadAll(r.Body)
