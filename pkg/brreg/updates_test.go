@@ -40,6 +40,29 @@ func Test(t *testing.T) {
 	checkGoldenFile(t, "updates", actualBytes)
 }
 
+func TestUpdatesById(t *testing.T) {
+	ts := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		keys, ok := r.URL.Query()["oppdateringsid"]
+		if !ok || keys[0] != "12341" {
+			t.Errorf("Unexpected oppdateringsid supplied")
+		}
+		file, _ := ioutil.ReadFile("testdata/updates.json")
+		w.Write(file)
+	}))
+	o := OrganizationUpdateService{
+		BaseUrl: ts.URL,
+	}
+	response, err := o.FetchUpdatesAfterID(12341)
+	if err != nil {
+		t.Errorf("Failed to execute request %s", err)
+	}
+	actualBytes, err := json.MarshalIndent(response, "", "  ")
+	if err != nil {
+		t.Fatalf("Failed to marshal object %s", err)
+	}
+	checkGoldenFile(t, "updates-id", actualBytes)
+}
+
 func checkGoldenFile(t *testing.T, testname string, actualBytes []byte) {
 	t.Helper()
 	goldenPath := "testdata/" + testname + ".golden"
